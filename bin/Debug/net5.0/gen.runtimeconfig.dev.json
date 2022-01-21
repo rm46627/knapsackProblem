@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/koma/.dotnet/store/|arch|/|tfm|",
+      "/home/koma/.nuget/packages"
+    ]
+  }
+}
